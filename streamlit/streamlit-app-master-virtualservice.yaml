@@ -1,0 +1,21 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: streamlit-app-master
+spec:
+  gateways:
+  - kubeflow/kubeflow-gateway
+  hosts:
+  - '*'
+  http:
+  - match:
+    - uri:
+        prefix: /anonymous/streamlit-app-master
+    rewrite:
+      uri: /
+    route:
+    - destination:
+        host: streamlit-app-master.anonymous.svc.cluster.local
+        port:
+          number: 8501
+
