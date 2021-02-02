@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1612285220,,"wq"
+|2,0,1612308188,,"wq"
 :q1
 |2,0,1612280955,,"q1"
 :q!
@@ -44,36 +44,50 @@
 |3,1,36,0,1,0,1612285219,"e"
 
 # File marks:
-'0  8  9  ~/notebook_image/Dockerfile
-|4,48,8,9,1612285220,"~/notebook_image/Dockerfile"
-'1  8  37  ~/notebook_image/Dockerfile
-|4,49,8,37,1612285147,"~/notebook_image/Dockerfile"
-'2  12  0  ~/notebook_image/Dockerfile
-|4,50,12,0,1612284769,"~/notebook_image/Dockerfile"
-'3  11  0  ~/notebook_image/Dockerfile
-|4,51,11,0,1612284769,"~/notebook_image/Dockerfile"
-'4  12  0  ~/notebook_image/Dockerfile
-|4,52,12,0,1612284769,"~/notebook_image/Dockerfile"
-'5  11  0  ~/notebook_image/Dockerfile
-|4,53,11,0,1612284769,"~/notebook_image/Dockerfile"
-'6  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
-|4,54,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
-'7  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
-|4,55,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+'0  1  5  ~/.gitignore
+|4,48,1,5,1612308188,"~/.gitignore"
+'1  8  9  ~/notebook_image/Dockerfile
+|4,49,8,9,1612285220,"~/notebook_image/Dockerfile"
+'2  8  37  ~/notebook_image/Dockerfile
+|4,50,8,37,1612285147,"~/notebook_image/Dockerfile"
+'3  12  0  ~/notebook_image/Dockerfile
+|4,51,12,0,1612284769,"~/notebook_image/Dockerfile"
+'4  11  0  ~/notebook_image/Dockerfile
+|4,52,11,0,1612284769,"~/notebook_image/Dockerfile"
+'5  12  0  ~/notebook_image/Dockerfile
+|4,53,12,0,1612284769,"~/notebook_image/Dockerfile"
+'6  11  0  ~/notebook_image/Dockerfile
+|4,54,11,0,1612284769,"~/notebook_image/Dockerfile"
+'7  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,55,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 '8  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
 |4,56,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
-'9  46  25  /tmp/kubectl-edit-docch.yaml
-|4,57,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
+'9  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,57,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 
 # Jumplist (newest first):
+-'  1  5  ~/.gitignore
+|4,39,1,5,1612308188,"~/.gitignore"
 -'  8  9  ~/notebook_image/Dockerfile
 |4,39,8,9,1612285220,"~/notebook_image/Dockerfile"
+-'  8  9  ~/notebook_image/Dockerfile
+|4,39,8,9,1612285220,"~/notebook_image/Dockerfile"
+-'  8  37  ~/notebook_image/Dockerfile
+|4,39,8,37,1612285147,"~/notebook_image/Dockerfile"
 -'  8  37  ~/notebook_image/Dockerfile
 |4,39,8,37,1612285147,"~/notebook_image/Dockerfile"
 -'  12  0  ~/notebook_image/Dockerfile
 |4,39,12,0,1612285134,"~/notebook_image/Dockerfile"
 -'  12  0  ~/notebook_image/Dockerfile
 |4,39,12,0,1612285134,"~/notebook_image/Dockerfile"
+-'  12  0  ~/notebook_image/Dockerfile
+|4,39,12,0,1612285134,"~/notebook_image/Dockerfile"
+-'  12  0  ~/notebook_image/Dockerfile
+|4,39,12,0,1612285134,"~/notebook_image/Dockerfile"
+-'  11  0  ~/notebook_image/Dockerfile
+|4,39,11,0,1612284769,"~/notebook_image/Dockerfile"
+-'  11  0  ~/notebook_image/Dockerfile
+|4,39,11,0,1612284769,"~/notebook_image/Dockerfile"
 -'  11  0  ~/notebook_image/Dockerfile
 |4,39,11,0,1612284769,"~/notebook_image/Dockerfile"
 -'  11  0  ~/notebook_image/Dockerfile
@@ -84,6 +98,28 @@
 |4,39,1,0,1612284722,"~/notebook_image/Dockerfile"
 -'  1  0  ~/notebook_image/Dockerfile
 |4,39,1,0,1612284722,"~/notebook_image/Dockerfile"
+-'  1  0  ~/notebook_image/Dockerfile
+|4,39,1,0,1612284722,"~/notebook_image/Dockerfile"
+-'  1  0  ~/notebook_image/Dockerfile
+|4,39,1,0,1612284722,"~/notebook_image/Dockerfile"
+-'  1  0  ~/notebook_image/Dockerfile
+|4,39,1,0,1612284722,"~/notebook_image/Dockerfile"
+-'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 -'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
 |4,39,1,39,1612282725,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 -'  1  39  ~/streamlit/streamlit-app-master-virtualservice.yaml
@@ -117,6 +153,34 @@
 -'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
 |4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 -'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282713,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
 |4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 -'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
 |4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
@@ -132,6 +196,26 @@
 |4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 -'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
 |4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  18  19  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,18,19,1612282654,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
+-'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
+|4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 -'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
 |4,39,1,0,1612282611,"~/streamlit/streamlit-app-master-virtualservice.yaml"
 -'  1  0  ~/streamlit/streamlit-app-master-virtualservice.yaml
@@ -182,92 +266,15 @@
 |4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
 -'  46  25  /tmp/kubectl-edit-docch.yaml
 |4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  46  25  /tmp/kubectl-edit-docch.yaml
-|4,39,46,25,1612282084,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
--'  1  0  /tmp/kubectl-edit-docch.yaml
-|4,39,1,0,1612282071,"/tmp/kubectl-edit-docch.yaml"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1612308187	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
 
 > ~/notebook_image/Dockerfile
 	*	1612285219	0
